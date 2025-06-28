@@ -1,7 +1,7 @@
 .header {
   padding: 30px 80px 40px;
   background: center / cover no-repeat #fff
-    url(../images/se_project_2_files/se_project_2_files/background_header.svg);
+    url(../images/se_project_2_files/background_header.svg);
   position: relative;
   height: 800px;
   display: flex;
@@ -24,9 +24,8 @@
   display: block;
   font-style: italic;
   color: #3f96f3;
-  font-family: "Inter", "Arial", sans-serif;
-  font-size: 16px;
-  line-height: 20px;
+  font-family: "Noto Serif", "Times New Roman", serif;
+ font-weight: 400;
 }
 
 .header__description {

@@ -12,6 +12,7 @@
 .form__input {
   display: block;
   width: 100%;
+  min-height: 60px;
   padding: 15px 20px;
   box-sizing: border-box;
   margin: 8px 0 32px;
@@ -23,8 +24,7 @@
 .form__input ::placeholder {
   font-size: 20px;
   line-height: 30px;
-  color: #838383;
-  min-height: 60px;
+  color: #838383
 }
 
 .form__label {
